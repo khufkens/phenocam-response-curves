@@ -1,5 +1,5 @@
 {
-  "name": "Phenocam-response-curves",
+  "name": "phenocam-response-curves",
   "tagline": "PhenoCam quantum efficiency response",
   "body": "PhenoCam / Stardot 5MP quantum efficiency functions. Data were digitized resampled to a 1 nm interval scale and truncated to the 400 and 750nm range.\r\n\r\n![](https://github.com/khufkens/phenocam-response-curves/blob/master/spectral_5MP.jpg)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
